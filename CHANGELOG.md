@@ -4,6 +4,19 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.9.7](https://github.com/mrcjkb/rustaceanvim/compare/v6.9.6...v6.9.7) (2025-11-25)
+
+
+### Bug Fixes
+
+* fixups after nightly update ([93644c7](https://github.com/mrcjkb/rustaceanvim/commit/93644c7cde9b69abc44e5f2442704f352faaa6d7))
+* **lsp:** update function call that is deprecated in nightly ([fe91aad](https://github.com/mrcjkb/rustaceanvim/commit/fe91aad29f77a73d48027c8983cdd9f274341f6b))
+
+
+### Performance Improvements
+
+* **dap:** cache rustc results ([#881](https://github.com/mrcjkb/rustaceanvim/issues/881)) ([f87d41c](https://github.com/mrcjkb/rustaceanvim/commit/f87d41c4dce48cff3fea0db7ba1cf300b28762e6))
+
 ## [6.9.7](https://github.com/mrcjkb/rustaceanvim/compare/v6.9.6...v6.9.7) (2025-11-03)
 
 
